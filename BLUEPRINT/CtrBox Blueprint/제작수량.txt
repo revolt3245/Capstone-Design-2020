@@ -1,0 +1,4 @@
+CtrBox_bottom - 알루미늄 2T x 1
+CtrBox_rear - 알루미늄 5T x 1
+CtrBox_side - 알루미늄 5T x 2
+CtrBox_top - 알루미늄 2T x 1

@@ -1,0 +1,5 @@
+Flywheel - 황동 x 2
+Flywheel_Panel - 알루미늄 2T x 2
+Flywheel_Bottom - 알루미늄 5T x 4
+Flywheel_Stator - 알루미늄 2T x 2
+Flywheel_Shaft_Holder - 알루미늄 2T x 2
