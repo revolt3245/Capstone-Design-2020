@@ -1,0 +1,2 @@
+Bluetooth.c:10:6:Send_String	24	static
+Bluetooth.c:18:6:Receive_String	16	static
